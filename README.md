@@ -88,3 +88,5 @@ Tested on
 - Safari 13.1.2 (macOS)
 - mobile Safari (iOS)
 - mobile Chrome (iOS)
+
+https://local-webscan.netlify.app/beta.html
